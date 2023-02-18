@@ -1,0 +1,36 @@
+# /bin
+
+> Essential user command binaries (for use by all users)
+> More information: https://refspecs.linuxfoundation.org/FHS_3.0/fhs/ch03s04.html
+
+- Utility to concatenate files to standard output:
+
+`cat`
+
+- Utility to change file group ownership:
+
+`chgrp`
+
+- Utility to change file access permissions:
+
+`chmod`
+
+- Utility to change file owner and group:
+
+`chown`
+
+- Utility to copy files and directories:
+
+`cp`
+
+- Utility to print or set the system data and time:
+
+`date`
+
+- Utility to convert and copy a file:
+
+`dd`
+
+- Utility to report filesystem disk space usage:
+
+`df`
