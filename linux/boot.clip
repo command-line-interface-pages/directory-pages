@@ -1,0 +1,8 @@
+# /boot
+
+> Static files of the boot loader
+> More information: https://refspecs.linuxfoundation.org/FHS_3.0/fhs/ch03s05.html
+
+- Data that is used before the kernel begins executing user-mode programs:
+
+`*`
