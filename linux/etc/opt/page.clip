@@ -1,4 +1,8 @@
 # /etc/opt
 
-> Configuration for /opt
+> Configuration files for /opt
 > More information: https://refspecs.linuxfoundation.org/FHS_3.0/fhs/ch03s07.html
+
+- Host-specific configuration files for add-on application software packages (optional):
+
+`*`

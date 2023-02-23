@@ -2,3 +2,35 @@
 
 > Host-specific system configuration
 > More information: https://refspecs.linuxfoundation.org/FHS_3.0/fhs/ch03s07.html
+
+- Configuration for the X Window system (optional):
+
+`X11`
+
+- Configuration for SGML (optional):
+
+`sgml`
+
+- Configuration for XML (optional):
+
+`xml`
+
+- Systemwide initialization file for C shell logins (optional):
+
+`csh.login`
+
+- NFS filesystem access control list (optional):
+
+`exports`
+
+- Static information about filesystems (optional):
+
+`fstab`
+
+- FTP daemon user access control list (optional):
+
+`ftpusers`
+
+- File which lists gateways for routed (optional):
+
+`gateways`
